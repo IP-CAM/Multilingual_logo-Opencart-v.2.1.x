@@ -16,4 +16,4 @@ OpenCart 2.1.x
 MIT
 
 #### Screenshots
-![Back-end Demo](https://github.com/p0v1n0m/opencart_multilingual_homepage_meta_tags/blob/master/screenshots/01.jpg)
+![Back-end Demo](https://github.com/p0v1n0m/opencart_multilingual_logo/blob/master/screenshots/01.jpg)
